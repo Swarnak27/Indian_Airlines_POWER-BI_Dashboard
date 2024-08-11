@@ -6,15 +6,14 @@ This Power BI dashboard offers an insightful analysis of the Indian airline indu
 
 ## Video Sample
 
-Watch a detailed walkthrough of the dashboard:
 
-[Indian Airlines Dashboard Video](https://github.com/Swarnak27/Indian_Airlines_POWER-BI_Dashboard/blob/main/Indian_Airlines.mp4)
+https://github.com/user-attachments/assets/49a30af6-24d9-4df5-8283-7e6ff985cd77
 
-> Click the link above to watch the video.
+
 
 ## Dashboard Preview
 
-![Indian Airlines Dashboard](https://github.com/Swarnak27/Indian_Airlines_POWER-BI_Dashboard/blob/main/Dashboard.jpeg)
+![Indian Airlines Dashboard](https://github.com/Swarnak27/Indian_Airlines_POWER-BI_Dashboard/blob/main/Data_Dashboard.jpeg)
 
 ## Charts Used
 
